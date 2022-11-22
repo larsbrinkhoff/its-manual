@@ -1,0 +1,75 @@
+# ITS Reference Manual
+
+Outline:
+
+- Getting ITS
+- Basics
+  - Booting
+  - Logging in
+  - LOCK
+  - TCTYP
+  - HACTRN (the "shell" part)
+  - INFO
+- Tools
+  - PDSET
+  - DUMP
+  - CRTSTY
+  - FIND
+  - DIRED
+  - XXFILE
+  - STUFF
+  - NTS DDT
+  - DSKDMP
+  - SALV
+- Editors
+  - EMACS
+  - TECO
+  - Imedit
+  - Rmode
+- Programming
+  - DDT (the debugging part)
+  - MIDAS
+  - Lisp
+  - Macsyma
+  - Muddle
+  - Logo
+  - PALX
+  - IMTRAN and friends
+  - C
+  - CLU
+  - Fortran
+- Games
+  - Spacewar
+  - MacHack VI
+  - Life
+  - Adventure
+  - Zork
+  - Maze
+  - Dazzle Dart
+- Hardware
+  - Processor models
+    - KA10 console
+  - Core memories
+  - Paper tape
+  - DECtape
+  - Magnetic tape
+  - Disks
+  - Type 340
+  - Color scope
+  - E&S display
+  - Terminals
+  - GT40
+  - Imlac
+  - Lisp machines
+  - Networking
+    - Arpanet
+    - Chaosnet
+  - TV-11
+    - Door and elevator
+  - XGP-11
+  - LOGO-11
+    - SITS
+    - TV displays
+    - Color TV
+    - NG displays
+    - 2500
