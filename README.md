@@ -73,3 +73,4 @@ Outline:
     - Color TV
     - NG displays
     - 2500
+  - Anecdotes and Stories
